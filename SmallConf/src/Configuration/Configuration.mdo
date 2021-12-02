@@ -38,6 +38,7 @@
     </synonym>
     <languageCode>en</languageCode>
   </languages>
+  <catalogs>Catalog.ЕдиницыИзмерений</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <documents>Document.ПродажаТоваров</documents>
 </mdclass:Configuration>
