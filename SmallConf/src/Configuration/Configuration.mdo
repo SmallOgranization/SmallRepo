@@ -41,5 +41,6 @@
   <catalogs>Catalog.ЕдиницыИзмерений</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Организации</catalogs>
+  <documents>Document.ПриходТовара</documents>
   <documents>Document.ПродажаТоваров</documents>
 </mdclass:Configuration>
